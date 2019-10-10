@@ -1,0 +1,15 @@
+{
+  "name": "npm-test",
+  "version": "6.6.6",
+  "description": "这是一个模块测试文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "jquery": "^3.4.1"
+  }
+}
